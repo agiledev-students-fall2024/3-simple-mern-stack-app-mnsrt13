@@ -1,0 +1,9 @@
+.about-bio {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.about-bio > p {
+    width: 50ch;
+}
